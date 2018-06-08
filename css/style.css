@@ -11,6 +11,16 @@ body
     src: url('https://fonts.googleapis.com/css?family=Noto+Sans')
 }
 
+.gray
+{
+    color: #949599
+}
+
+.red
+{
+   color:  #f08368
+}
+
 .Noto
 {
     font-family: 'Noto Sans', sans-serif;
@@ -31,6 +41,11 @@ body
 {
     margin-top:-270px; 
     margin-left: 400px;
+}
+
+.boxrow
+{
+    width: 250px
 }
 
 
